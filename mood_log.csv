@@ -1,0 +1,18 @@
+timestamp,user_id,user_mood,mood_score
+2025-05-19 14:01:33,coco||dog,happy,4
+2025-05-19 14:02:10,cc||cat,lonely,-1
+2025-05-19 14:28:22,kk||pig,lonely,-1
+2025-05-19 14:57:31,ff||pig,angry,-5
+2025-05-19 15:10:44,ee||dragon,bored,0
+2025-05-19 15:20:00,rr||pig,bored,0
+2025-05-19 15:24:53,ww||fox,bored,-1
+2025-05-19 15:27:45,ss||dragon,angry,-4
+2025-05-19 15:29:48,kk||dog,anxious,-4
+2025-05-19 15:36:39,ee||pig,ee,1
+2025-05-19 15:41:02,tt||dog,happy,6
+2025-05-19 15:44:56,ll||dog,happy,4
+2025-05-19 15:47:03,ss||fox,e,0
+2025-05-19 15:47:48,o||pig,anxious,0
+2025-05-20 23:41:29,kk||cat,happy,5
+2025-05-20 23:42:29,cc||cat,happy,5
+2025-05-22 18:07:53,cc||cat,lonely,1
